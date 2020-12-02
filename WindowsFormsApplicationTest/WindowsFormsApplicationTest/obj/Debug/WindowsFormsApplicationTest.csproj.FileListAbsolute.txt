@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Zahin\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\WindowsFormsApplicationTest.exe.config
+C:\Users\Asus\Desktop\Zahin\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\WindowsFormsApplicationTest.exe
+C:\Users\Asus\Desktop\Zahin\WindowsFormsApplicationTest\WindowsFormsApplicationTest\bin\Debug\WindowsFormsApplicationTest.pdb
+C:\Users\Asus\Desktop\Zahin\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Zahin\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.Form1.resources
+C:\Users\Asus\Desktop\Zahin\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.Properties.Resources.resources
+C:\Users\Asus\Desktop\Zahin\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Zahin\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.exe
+C:\Users\Asus\Desktop\Zahin\WindowsFormsApplicationTest\WindowsFormsApplicationTest\obj\Debug\WindowsFormsApplicationTest.pdb
