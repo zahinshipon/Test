@@ -19,7 +19,7 @@ namespace WindowsFormsApplicationTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Show";
+            label2.Text = "Hi This is first code";
         }
     }
 }
